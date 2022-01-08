@@ -1,0 +1,14 @@
+{ "columns":58,
+ "image":"mapaIMG.png",
+ "imageheight":448,
+ "imagewidth":1856,
+ "margin":0,
+ "name":"mapaIMG",
+ "spacing":0,
+ "tilecount":812,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
